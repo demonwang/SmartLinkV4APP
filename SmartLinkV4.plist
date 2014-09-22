@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+<<<<<<< HEAD:SmartLinkV4.1.plist
+					<string>https://raw.githubusercontent.com/demonwang/SmartLinkV4APP/master/SmartLinkV4.1.ipa</string>
+=======
+					<string>https://raw.githubusercontent.com/demonwang/SmartLinkV4APP/master/SmartLink%20V4.1.ipa</string>
+>>>>>>> FETCH_HEAD:SmartLink V4.1.plist
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.hifly299.windtalker</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>smartlinkv4</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
